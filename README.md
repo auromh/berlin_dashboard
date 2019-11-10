@@ -15,7 +15,7 @@ Data collected: historical pollution data from 01-01-2017 to 06-11-2019 for the 
 - 4_subsetting.ipynb: notebook that from the merged dataframe, subsets to obtain different granularity dataframes: hourly, daily and monthly. Export the three dataframes as csv so it can be imported in Tableau for data visualization.
 
 ## 3. Tableau
-Once all the data has been prepared in python, it is imported in Tableau. Tableau has been used to create monthly and daily dashboards that allow exploring seamlessly through the different districts and pollutants. 
+Once all the data has been prepared in python, it is imported in Tableau. Tableau has been used to create monthly and daily dashboards that allow seamlesslyexplore the different districts and pollutants. 
 
 Recomendation: analyze the Tableau dashboards in full-screen. 
 
