@@ -6,7 +6,7 @@ Considering this forecast and the increasing constitution of Megacities, air qua
 
 For this reason I have collected pollution data from the Berlin city, with the aim of analyzing the correlation among different pollutants, and building a "city-dashboard" that could potentially be used for monitoring the evolution of the pollutants in the different districts of Berlin.
 
-Data collected: historical pollution data from 01-01-2017 to 06-11-2019 for the following pollutants: CO(mg/m3), NO_2(µg/m3), NOx(µg/m3), O_3(µg/m3), PM10(µg/m3), SO_2(µg/m3). Max granularity is hourly.
+Data collected: historical pollution data from 01-01-2017 to 06-11-2019 for the following pollutants: CO(mg/m3), NO_2(µg/m3), NOx(µg/m3), NO(µg/m3), O_3(µg/m3), PM10(µg/m3), SO_2(µg/m3). Max granularity is hourly.
 
 ## 2. Files
 - 1_berlin_pollution_stations.ipynb: notebook that automatically downloads, opens and cleans data about berlin's pollution from guvernamental website (https://luftdaten.berlin.de/lqi). It also loads information about the location of the stations. Converts both dataframes as pickles.
