@@ -15,7 +15,8 @@ Data collected: historical pollution data from 01-01-2017 to 06-11-2019 for the 
 - 4_subsetting.ipynb: notebook that from the merged dataframe, subsets to obtain different granularity dataframes: hourly, daily and monthly. Export the three dataframes as csv so it can be imported in Tableau for data visualization.
 
 ## 3. Tableau
-Once all the data has been prepared in python, it is imported in Tableau. Tableau has been used to create monthly and daily dashboards that allow exploring seamlessly through the different districts and pollutants. Recomendation: analyze the Tableau dashboards in full-screen. 
+Once all the data has been prepared in python, it is imported in Tableau. Tableau has been used to create monthly and daily dashboards that allow exploring seamlessly through the different districts and pollutants. 
+Recomendation: analyze the Tableau dashboards in full-screen. 
 To be found here: https://public.tableau.com/profile/atomohe#!/vizhome/Berlin_Dashboard/BerlinPollution?publish=yes
 
 ## 4. Environment dependancies:
