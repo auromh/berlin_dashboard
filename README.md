@@ -19,7 +19,7 @@ Once all the data has been prepared in python, it is imported in Tableau. Tablea
 
 Recomendation: analyze the Tableau dashboards in full-screen. 
 
-To be found here: https://public.tableau.com/profile/atomohe#!/vizhome/Berlin_Dashboard/BerlinPollution?publish=yes
+To be found here: https://public.tableau.com/profile/atomohe#!/vizhome/Berlin_Dashboard/BerlinPollution?publish=yes 
 
 ## 4. Environment dependancies:
 - appnope==0.1.0
